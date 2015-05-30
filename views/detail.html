@@ -1,0 +1,30 @@
+<div class="slidePage page" ng-class="{'leaving': calculator.isLeaving, 'entering': calculator.isEntering}">
+    <div ng-if="loaded && calculator.showQuiz">
+        <p class="preQuestion">
+            ¿Cómo es escribe?
+        </p>
+        <p class="question">
+            {{ currentQuestion.question }}
+        </p>
+        <div id="circleButtonsWrap" class="cb clearfix">
+            <div ng-repeat="option in currentQuestion.options"
+                    class="btWrap">
+                <a ng-click="setAnswer(option, currentQuestion)"
+                    class="bt bt_ball"
+                    ng-bind-html="option">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="landing" ng-if="loaded && !calculator.showQuiz">
+        <div id="landingTitle"></div>
+
+        <p class="pageTitle">Test finalizado</p>
+        <p class="question">
+            Has acertado {{ okAnswers }} de {{ totalAnswers }}.
+        </p>
+
+        <a ng-href="#create" class="bt db bg_green" href="#create">volver a jugar</a>
+    </div>
+
+</div>

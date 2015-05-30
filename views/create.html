@@ -1,0 +1,43 @@
+<div id="calculatorPage" class="slidePage page" ng-class="{leaving: calculator.isLeaving, entering: calculator.isEntering, reverse: calculator.isMovingReverse}">
+
+    <h1 class="title h2 ac">{{ calculator.title }}</h1>
+    <div class="errorInfoPanel" ng-if="calculator.error != ''" ng-bind-html="calculator.error">
+    </div>
+    <div class="calculator">
+        <label ng-bind-html="calculator.description"></label>
+        <ul ng-if="calculator.currentStep == 1" class="clearfix">
+            <li ng-repeat="rule in rules" ng-class="{'double':rule.id=='all'}">
+                <a class="bt" ng-class="{'bg_gray': rule.id!='all','bg_orange': rule.id=='all' }" ng-click="chooseType('{{rule.id}}', calculator.currentStep)">{{ rule.name }}</a>
+            </li>
+        </ul>
+        <ul ng-if="calculator.currentStep == 2">
+            <li ng-repeat="type in types" class="double">
+                <a class="bt bg_gray" ng-click="chooseType(calculator.rule, calculator.currentStep, type.id)">{{ type.name }}</a>
+            </li>
+            <li class="double">
+                <a class="bt bg_orange" ng-click="chooseType(calculator.rule, calculator.currentStep, 'all')">aleatorio</a>
+            </li>
+        </ul>
+        <div class="actions cb">
+            <a ng-if="calculator.currentStep == 2 && loading" class="bt bg_green disabled db">cargando...</a>
+            <a ng-if="calculator.currentStep > 1" ng-click="prevStep(calculator.currentStep-1)">&lt; volver</a>
+        </div>
+    </div>
+
+    <form ng-submit="addMeeting()" class="hidden">
+        <input type="text" ng-model="meetData.owner" name="owner" placeholder="owner"/>
+        <input type="text" ng-model="meetData.id" name="id" placeholder="id"/>
+        <input type="text" ng-model="meetData.attenders" name="attenders" placeholder="attenders"/>
+        <select ng-model="meetData.status" name="status" placeholder="status"/>
+            <option value="">Selecciona Status</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+        </select>
+        <input type="text" ng-model="meetData.averageRate" name="averageRate" placeholder="averageRate"/>
+        <input type="text" ng-model="meetData.ratePeriod" name="ratePeriod" placeholder="ratePeriod"/>
+        <input type="text" ng-model="meetData.estimatedSeconds" name="estimatedSeconds" placeholder="estimatedSeconds"/>
+        <input type="text" ng-model="meetData.meetSeconds" name="meetSeconds" placeholder="meetSeconds"/>
+        <input type="submit" id="submit" placeholder="submit"/>
+    </form>
+</div>
