@@ -17,7 +17,7 @@ angular.module('meetcost')
         $scope.questions = [];
         $scope.calculator.showQuiz = true;
         $scope.okAnswers = 0;
-        $scope.totalAnswers = $rootScope.settings.questionsAmount;
+        $scope.totalAnswers = $rootScope.questionsAmount;
 
         // hide fixed bar by default
         $rootScope.toggleBarVisibility = false;
@@ -41,7 +41,7 @@ angular.module('meetcost')
                 }
 
 
-                for (var i = 0; i < $rootScope.settings.questionsAmount; i++) {
+                for (var i = 0; i < $rootScope.questionsAmount; i++) {
                     var randomIndex = getRandomInt(0, filteredQuestions.length);
                     var tmpOptions = filteredQuestions[randomIndex].options;
 

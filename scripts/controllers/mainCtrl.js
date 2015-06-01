@@ -8,14 +8,19 @@ angular.module('meetcost')
         $rootScope.pageInfo = {
             'id': 'indexPage',
             'class': 'indexPage',
-            'title': 'Meeting time & cost'
+            'title': 'El juego de la ortografía'
         };
 
-        $rootScope.settings = {
-            'questionsAmount': 5,
+        if (!localStorage.questionsAmount) {
+            localStorage.questionsAmount = 5;
+        }
+
+        $rootScope.questionsAmount = localStorage.questionsAmount;
+        /*$rootScope.settings = {
+            'questionsAmount': localStorage.questionsAmount,
             'setTimeLimit': false,
             'timeLimit': 10
-        }
+        }*/
 
         // hide fixed bar by default
         $rootScope.toggleBarVisibility = false;

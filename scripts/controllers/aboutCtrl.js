@@ -6,7 +6,7 @@ angular.module('meetcost')
         $rootScope.pageInfo = {
             'id': 'aboutPage',
             'class': 'aboutPage',
-            'title': 'Meeting time & cost'
+            'title': 'Acerca de nosotros'
         };
 
         // hide fixed bar by default

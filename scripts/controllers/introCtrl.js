@@ -6,7 +6,7 @@ angular.module('meetcost')
         $rootScope.pageInfo = {
             'id': 'aboutPage',
             'class': 'aboutPage',
-            'title': 'Meeting time & cost'
+            'title': 'El juego de la ortografía'
         };
 
         // hide fixed bar by default
