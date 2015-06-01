@@ -1,2 +1,5 @@
 edit/*
 node_modules/mongodb/*
+docs/*
+*.keystore
+ortografia.keystore
