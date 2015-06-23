@@ -4302,14 +4302,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"_amba es un rey visigodo de España.",
-      "answer":"OTHER",
-      "msg":"Llevan W varios nombres propios de origen visigodo. Ejemplos: Wamba, Wifredo, Witiza, Walia y Witerico."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"La columna vertebral del perro termina en un ra_o o cola.",
       "answer":"0",
       "msg":"Se escribe b después de las sílabas iniciales ra-, ro-, ru- . Ejemplos: rabadilla, rábano, rabel (instrumento musical pastoril), rabia, rabino, rabo, riba (porción de tierra con alguna elevación), ribazo, ribera (margen u orilla de un río o mar), ribete, ribonucleico, robar, robellón, robinson, robot, robusto, rubeola o rubéola, rubí, rubio y rubor.Excepciones: raviol, ravidi, rival, rivalidad, rivera (arroyo o río pequeño), Ravena o Rávena, Rivera (ciudad de Uruguay) y Rivas (ciudad de Nicaragua)."
@@ -4337,14 +4329,6 @@
       "question":"En la frutería había una gran di_ersidad de frutas.",
       "answer":"1",
       "msg":"Llevan v las palabras que comienzan por di-. Ejemplos: diva, divulgación, diván, divergencia, diversión, dividir, divino, divisar, divorcio y divulgar. Excepciones: dibujo y dibranquial."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Le sucedió a don Rodrigo el rey visigodo _itiza.",
-      "answer":"OTHER",
-      "msg":"Llevan W varios nombres propios de origen visigodo. Ejemplos: Wamba, Wifredo, Witiza, Walia y Witerico."
     },
     {
       "rule":"bv",
@@ -4409,14 +4393,6 @@
       "question":"En mi cumpleaños mi madre di_idió la tarta.",
       "answer":"1",
       "msg":"Llevan v las palabras que comienzan por di-. Ejemplos: diva, divulgación, diván, divergencia, diversión, dividir, divino, divisar, divorcio y divulgar. Excepciones: dibujo y dibranquial."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"El conde de Barcelona _ifredo el Velloso dependía de los francos.",
-      "answer":"OTHER",
-      "msg":"Llevan W varios nombres propios de origen visigodo. Ejemplos: Wamba, Wifredo, Witiza, Walia y Witerico."
     },
     {
       "rule":"bv",
@@ -4494,14 +4470,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"_alia fue el cuarto rey de los visigodos españoles.",
-      "answer":"OTHER",
-      "msg":"Llevan W varios nombres propios de origen visigodo. Ejemplos: Wamba, Wifredo, Witiza, Walia y Witerico."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"Un encla_e es un territorio incluido en otro mayor.",
       "answer":"1",
       "msg":"Se escribe v detrás de la sílaba cla-. Ejemplos: clave, clavel, clavícula, clavija, cónclave, enclave, y esclavo. Excepciones: los vocablos derivados en -ble y -bilidad de los verbos terminados en clar: anclable (de anclar), reciclable (de reciclar), mezclable, mezclabilidad (de mezclar)."
@@ -4529,14 +4497,6 @@
       "question":"Los rá_anos son una raíz comestible.",
       "answer":"0",
       "msg":"Se escribe b después de las sílabas iniciales ra-, ro-, ru- . Ejemplos: rabadilla, rábano, rabel (instrumento musical pastoril), rabia, rabino, rabo, riba (porción de tierra con alguna elevación), ribazo, ribera (margen u orilla de un río o mar), ribete, ribonucleico, robar, robellón, robinson, robot, robusto, rubeola o rubéola, rubí, rubio y rubor.Excepciones: raviol, ravidi, rival, rivalidad, rivera (arroyo o río pequeño), Ravena o Rávena, Rivera (ciudad de Uruguay) y Rivas (ciudad de Nicaragua)."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"El rey _iterico murió asesinado.",
-      "answer":"OTHER",
-      "msg":"Llevan W varios nombres propios de origen visigodo. Ejemplos: Wamba, Wifredo, Witiza, Walia y Witerico."
     },
     {
       "rule":"bv",
@@ -4590,14 +4550,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"El _olframio es un metal de color gris casi negro.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos topónimos y antropónimos alemanes: Ejemplos: wolframio, Wagner, Westfalia, Weimar, y Walkiria."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"Encontramos en el monte un al_ergue y una cueva.",
       "answer":"0",
       "msg":"Llevan b las palabras que empiezan por alb- y arb- . Ejemplos: Albania, albaricoque, albedrío, albergue, Alberto, albino (de piel y pelo anormalmente blanco), albóndiga,albornoz, alboroto, álbum, árbitro, árbol y arbusto. Excepciones: Alvarez, Álvaro, álveo (madre del río arroyo), alvéolo o alveolo, alvino(del bajo vientre), alverja o arveja y arvense."
@@ -4638,14 +4590,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"El tratado de _estfalia puso fin a la guerra de los Treinta Años.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos topónimos y antropónimos alemanes: Ejemplos: wolframio, Wagner, Westfalia, Weimar, y Walkiria."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"En el puerto hay toda clase de _arcos.",
       "answer":"0",
       "msg":"Se escriben con b las palabras que empiezan por bar- y bor- . Ejemplos: barba, barbacoa,Barcelona, barco, barniz, Bartolomé, borbotear, borda, bordar, bordes, Borgoña, borla. Excepciones: várdulo, Vargas, Varsovia y vórtice."
@@ -4681,14 +4625,6 @@
       "question":"La capital de Polonia es _arsovia.",
       "answer":"1",
       "msg":"Se escriben con b las palabras que empiezan por bar- y bor- . Ejemplos: barba, barbacoa,Barcelona, barco, barniz, Bartolomé, borbotear, borda, bordar, bordes, Borgoña, borla. Excepciones: várdulo, Vargas, Varsovia y vórtice."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"La ciudad de _eimar está al Este de Alemania.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos topónimos y antropónimos alemanes: Ejemplos: wolframio, Wagner, Westfalia, Weimar, y Walkiria."
     },
     {
       "rule":"bv",
@@ -4750,14 +4686,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"Ricardo _agner fue un compositor y dramaturgo alemán.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos topónimos y antropónimos alemanes: Ejemplos: wolframio, Wagner, Westfalia, Weimar, y Walkiria."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"En mi pueblo se celebra la fiesta de san _artolomé.",
       "answer":"0",
       "msg":"Se escriben con b las palabras que empiezan por bar- y bor- . Ejemplos: barba, barbacoa,Barcelona, barco, barniz, Bartolomé, borbotear, borda, bordar, bordes, Borgoña, borla. Excepciones: várdulo, Vargas, Varsovia y vórtice."
@@ -4801,14 +4729,6 @@
       "question":"Esta llo_izna es una lluvia fina y uniforme.",
       "answer":"1",
       "msg":"Se escribe v detrás de las sílabas iniciales lla-, lle-, llo- y llu-. Ejemplos: llave, llevar,llover, y lluvia."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"La _alkiria es un drama musical de Ricardo Wagner.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos topónimos y antropónimos alemanes: Ejemplos: wolframio, Wagner, Westfalia, Weimar, y Walkiria."
     },
     {
       "rule":"bv",
@@ -4862,14 +4782,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"Edgar _allace escribió novelas de género policíaco.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunos nombres propios: Wallace, Windsor, Wiseman, Woolf y Walker."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"El taxista no podido e_itar el accidente.",
       "answer":"1",
       "msg":"Llevan v las palabras que empiezan por eva- eve- evi- y evo- . Ejemplos: evacuar, evangelista, evasión, evento, evidente, evitar, evocar y evolución.Excepciones: ébano, ebanista, ebanistería, ebionita, ebonita y eborario."
@@ -4897,14 +4809,6 @@
       "question":"Los nobles gozaban de pri_ilegios antiguamente.",
       "answer":"1",
       "msg":"Se escribe v detrás de las sílabas iniciales pri- pro-. Ejemplos: priva, privado, privilegio, provecho, providencia,  provincia, provisional, provocar. Excepciones: probar, probeta, problema, probo, probóscide y probritánico."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Eduardo VIII tomó el nombre de duque de _indsor.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunos nombres propios: Wallace, Windsor, Wiseman, Woolf y Walker."
     },
     {
       "rule":"bv",
@@ -4966,14 +4870,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"Nicolás _iseman fue un cardenal y escritor inglés.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunos nombres propios: Wallace, Windsor, Wiseman, Woolf y Walker."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"El sastre me pro_ó el traje.",
       "answer":"0",
       "msg":"Se escribe v detrás de las sílabas iniciales pri- pro-. Ejemplos: priva, privado, privilegio, provecho, providencia,  provincia, provisional, provocar. Excepciones: probar, probeta, problema, probo, probóscide y probritánico."
@@ -5009,14 +4905,6 @@
       "question":"Estudiando saca pro_echo en su carrera.",
       "answer":"1",
       "msg":"Se escribe v detrás de las sílabas iniciales pri- pro-. Ejemplos: priva, privado, privilegio, provecho, providencia,  provincia, provisional, provocar. Excepciones: probar, probeta, problema, probo, probóscide y probritánico."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Virginia _oolf fue una novelista inglesa.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunos nombres propios: Wallace, Windsor, Wiseman, Woolf y Walker."
     },
     {
       "rule":"bv",
@@ -5073,14 +4961,6 @@
       "question":"Paco está siempre viajando, parece un vaga_undo.",
       "answer":"0",
       "msg":"Se escriben con b las palabras terminadas en -bundo,  -bunda. Ejemplos: abunda, foribundo, meditabunda, moribundo, nauseabunda, tremebunda y vagabundo."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Carlos _alker fue un poeta y político chileno.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunos nombres propios: Wallace, Windsor, Wiseman, Woolf y Walker."
     },
     {
       "rule":"bv",
@@ -5166,14 +5046,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"Ko_alski es un apellido polaco.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos nombres de origen polaco y europeo: Kowalski, Walesa,Watt, Weber y Wenceslao."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"Juan estudia _iología y conoce muchos seres vivos.",
       "answer":"0",
       "msg":"Se escriben con b las palabras que empiezan por bio- o terminan en -bio. Ejemplos: biodiversidad, bioquímica, biosfera o biósfera, biotecnología, anaerobio y microbio."
@@ -5201,14 +5073,6 @@
       "question":"El _ibliobús reparte libros por los pueblos.",
       "answer":"0",
       "msg":"Llevan b las palabras que empiezan por bibli(o)- (libro). Ejemplos: biblia, bíblico, bibliobús, bibliomanía y biblioteca."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"El sindicalista polaco Lech _alesa recibió el Nóbel de la Paz.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos nombres de origen polaco y europeo: Kowalski, Walesa,Watt, Weber y Wenceslao."
     },
     {
       "rule":"bv",
@@ -5246,14 +5110,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"James _att inventó la máquina de vapor de doble efecto.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos nombres de origen polaco y europeo: Kowalski, Walesa,Watt, Weber y Wenceslao."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"Montse come _izcochos para desayunar.",
       "answer":"0",
       "msg":"Llevan b las palabras que contienen los prefijos bi-, bis- y biz- (dos o más). Ejemplos: bianual, bicentenario,  bicolor, bilateral, bilingüe, bimotor, bipartidismo, bipolar, bisexual, bisnieto o biznieto, bizcocho o biscocho."
@@ -5281,14 +5137,6 @@
       "question":"Los micro_ios son seres vivos muy pequeños.",
       "answer":"0",
       "msg":"Se escriben con b las palabras que empiezan por bio- o terminan en -bio. Ejemplos: biodiversidad, bioquímica, biosfera o biósfera, biotecnología, anaerobio y microbio."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Carlos María _eber fue un compositor alemán romántico.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos nombres de origen polaco y europeo: Kowalski, Walesa,Watt, Weber y Wenceslao."
     },
     {
       "rule":"bv",
@@ -5345,14 +5193,6 @@
       "question":"El _iólogo estudia la ciencia de los seres vivos.",
       "answer":"0",
       "msg":"Se escriben con b las palabras que empiezan por bio- o terminan en -bio. Ejemplos: biodiversidad, bioquímica, biosfera o biósfera, biotecnología, anaerobio y microbio."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Varios reyes de Bohemia y Hungría se llamaban _enceslao.",
-      "answer":"OTHER",
-      "msg":"Se escriben con w algunos nombres de origen polaco y europeo: Kowalski, Walesa,Watt, Weber y Wenceslao."
     },
     {
       "rule":"bv",
@@ -5417,14 +5257,6 @@
       "question":"Vivir con _ienestar es vivir sin estrecheces.",
       "answer":"0",
       "msg":"Se escriben con b las palabras con bien-, ben-(e).  Ejemplos: bienaventurada, bienestar, bienintencionado, bienhechor, bienmesabe, biennacido, bienoliente, bienvenida, bendecir, benefactor, beneplácito y benevolente."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Van der _eyden fue el más ilustre pintor flamenco.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunas palabras de origen neerlandés y otros países. Ejemplos: Weyden, Washington, Waugh, Wellington y Waterloo."
     },
     {
       "rule":"bv",
@@ -5510,14 +5342,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"Jorge _ashington fue un militar y político norteamericano.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunas palabras de origen neerlandés y otros países. Ejemplos: Weyden, Washington, Waugh, Wellington y Waterloo."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"El o_ispo es la máxima autoridad religiosa de una diócesis.",
       "answer":"0",
       "msg":"Se escriben con b las voces en cuya familia léxica hay palabras que en lugar de bpresentan la p etimológica latina: Ejemplos: abeja (apicultura), cabello, cabellera, descabellado (capilar),  obispo, obispado (episcopado, episcopal), recibir, recibidor (recipiente, receptor), sabio, sabiduría (sapiencia), sabor, saborear (insípido)."
@@ -5537,14 +5361,6 @@
       "question":"El su_índice es una letras o número que se añade a un símbolo.",
       "answer":"0",
       "msg":"Llevan b las palabras que empiezan por sub- (bajo o debajo).  Ejemplos: subacuático, subafluente, subempleo, subestación, subestimar, subíndice, subinspector, suboficial y suburbano."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Evely _augh fue un célebre novelista inglés.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunas palabras de origen neerlandés y otros países. Ejemplos: Weyden, Washington, Waugh, Wellington y Waterloo."
     },
     {
       "rule":"bv",
@@ -5614,14 +5430,6 @@
       "rule":"bv",
       "type":"sentence",
       "options":"b,v",
-      "question":"El general Arturo _ellington derrotó a los franceses.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunas palabras de origen neerlandés y otros países. Ejemplos: Weyden, Washington, Waugh, Wellington y Waterloo."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
       "question":"El pájaro inicio su su_vuelo moviendo las alas.",
       "answer":"0",
       "msg":"Llevan b las palabras que empiezan por sub- (bajo o debajo).  Ejemplos: subacuático, subafluente, subempleo, subestación, subestimar, subíndice, subinspector, suboficial y suburbano."
@@ -5649,14 +5457,6 @@
       "question":"Mi padre gira el _olante del coche.",
       "answer":"1",
       "msg":"Se escriben con v los verbos mover, valer, ver, venir y volar y sus derivados. Ejemplos: muevo, movimiento, valgo, válido, valioso, vería, vidente, prever, vendremos, venidero, volamos, vuelo, volandas y volante."
-    },
-    {
-      "rule":"bv",
-      "type":"sentence",
-      "options":"b,v",
-      "question":"Napoleón fue derrotado en _aterloo por los ingleses.",
-      "answer":"OTHER",
-      "msg":"Llevan W algunas palabras de origen neerlandés y otros países. Ejemplos: Weyden, Washington, Waugh, Wellington y Waterloo."
     },
     {
       "rule":"bv",
@@ -22781,7 +22581,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_á",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22789,7 +22589,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_o",
       "answer":"0",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22797,7 +22597,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ani_o",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22805,7 +22605,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"antea_er",
       "answer":"0",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22813,7 +22613,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"calzonci_o",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22821,7 +22621,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atrope_ar",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22829,7 +22629,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_er",
       "answer":"0",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22837,7 +22637,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"chi_ar",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22845,7 +22645,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ba_ena",
       "answer":"1",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22853,7 +22653,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ba_eta",
       "answer":"0",
       "msg":"allá, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar, ballena, bayeta."
@@ -22861,7 +22661,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Vizca_a",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22869,7 +22669,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"asti_a",
       "answer":"1",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22877,7 +22677,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"To_ota",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22885,7 +22685,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"be_ota",
       "answer":"1",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22893,7 +22693,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"tra_ecto",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22901,7 +22701,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ugo",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22909,7 +22709,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ave_ana",
       "answer":"1",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22917,7 +22717,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuchi_a",
       "answer":"1",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22925,7 +22725,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22933,7 +22733,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"hu_ó",
       "answer":"0",
       "msg":"Vizcaya, astilla, Toyota, bellota, trayecto, yugo, avellana, cuchilla, payaso, huyó."
@@ -22941,7 +22741,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_í",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -22949,7 +22749,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_er",
       "answer":"0",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco. "
@@ -22957,7 +22757,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Go_a",
       "answer":"0",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco. "
@@ -22965,7 +22765,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ani_a",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -22973,7 +22773,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pae_a",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -22981,7 +22781,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"le_",
       "answer":"0",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco. "
@@ -22989,7 +22789,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ca_ar",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -22997,7 +22797,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"arro_ar",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -23005,7 +22805,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atra_ente",
       "answer":"0",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco. "
@@ -23013,7 +22813,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izco",
       "answer":"1",
       "msg":"allí, ayer, Goya, anilla, paella, ley, callar, arrollar, atrayente, pellizco."
@@ -23021,7 +22821,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_á",
       "answer":"1",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar."
@@ -23029,7 +22829,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"antea_er",
       "answer":"0",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar. "
@@ -23037,7 +22837,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Vizca_a",
       "answer":"0",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar. "
@@ -23045,7 +22845,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"asti_a",
       "answer":"1",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar."
@@ -23053,7 +22853,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"co_ar",
       "answer":"1",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar."
@@ -23061,7 +22861,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar. "
@@ -23069,7 +22869,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mu_",
       "answer":"0",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar. "
@@ -23077,7 +22877,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"arru_ar",
       "answer":"1",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar."
@@ -23085,7 +22885,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ba_eu",
       "answer":"0",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar. "
@@ -23093,7 +22893,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izcar",
       "answer":"1",
       "msg":"allá, anteayer, Vizcaya, astilla, collar, payaso, muy, arrullar, Bayeu, pellizcar."
@@ -23101,7 +22901,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"vo_",
       "answer":"0",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón. "
@@ -23109,7 +22909,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ani_a",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23117,7 +22917,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ca_ar",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23125,7 +22925,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cón_uge",
       "answer":"0",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón. "
@@ -23133,7 +22933,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuarti_a",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23141,7 +22941,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuchi_a",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23149,7 +22949,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cu_o",
       "answer":"0",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón. "
@@ -23157,7 +22957,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"e_o",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23165,7 +22965,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ye_é",
       "answer":"0",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón. "
@@ -23173,7 +22973,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"empo_ón",
       "answer":"1",
       "msg":"voy, anilla, callar, cónyuge, cuartilla, cuchilla, cuyo, ello, yeyé, empollón."
@@ -23181,7 +22981,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Monca_o",
       "answer":"0",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo. "
@@ -23189,7 +22989,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bi_ete",
       "answer":"1",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo."
@@ -23197,7 +22997,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"le_enda",
       "answer":"0",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo. "
@@ -23205,7 +23005,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ate",
       "answer":"0",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo. "
@@ -23213,7 +23013,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bocadi_o",
       "answer":"1",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo."
@@ -23221,7 +23021,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuarti_a",
       "answer":"1",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo."
@@ -23229,7 +23029,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ugoslavo",
       "answer":"0",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo. "
@@ -23237,7 +23037,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"va_e",
       "answer":"1",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo."
@@ -23245,7 +23045,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"sa_a",
       "answer":"0",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo. "
@@ -23253,7 +23053,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pepini_o",
       "answer":"1",
       "msg":"Moncayo, billete, leyenda, yate, bocadillo, cuartilla, yugoslavo, valle, saya, pepinillo."
@@ -23261,7 +23061,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Arnedi_o",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23269,7 +23069,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_a",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23277,7 +23077,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ate",
       "answer":"0",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó. "
@@ -23285,7 +23085,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_o",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23293,7 +23093,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Vizca_a",
       "answer":"0",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó. "
@@ -23301,7 +23101,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ga_ur",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23309,7 +23109,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Go_a",
       "answer":"0",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó. "
@@ -23317,7 +23117,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"hebi_a",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23325,7 +23125,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"maneci_a",
       "answer":"1",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó."
@@ -23333,7 +23133,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"hu_ó",
       "answer":"0",
       "msg":"Arnedillo, falla, yate, fallo, Vizcaya, Gallur, Goya, hebilla, manecilla, huyó. "
@@ -23341,7 +23141,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_á",
       "answer":"1",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla."
@@ -23349,7 +23149,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"antea_er",
       "answer":"0",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla. "
@@ -23357,7 +23157,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_untamiento",
       "answer":"0",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla. "
@@ -23365,7 +23165,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ventani_a",
       "answer":"1",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla."
@@ -23373,7 +23173,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bolsi_o",
       "answer":"1",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla."
@@ -23381,7 +23181,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensa_ar",
       "answer":"0",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla. "
@@ -23389,7 +23189,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bote_a",
       "answer":"1",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla."
@@ -23397,7 +23197,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jo_a",
       "answer":"0",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla. "
@@ -23405,7 +23205,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_or",
       "answer":"0",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla. "
@@ -23413,7 +23213,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"carti_a",
       "answer":"1",
       "msg":"allá, anteayer, ayuntamiento, ventanilla, bolsillo, ensayar, botella, joya, mayor, cartilla."
@@ -23421,7 +23221,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bo_o",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23429,7 +23229,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ema",
       "answer":"0",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas. "
@@ -23437,7 +23237,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bombi_a",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23445,7 +23245,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bote_a",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23453,7 +23253,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"apo_ar",
       "answer":"0",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas. "
@@ -23461,7 +23261,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"came_o",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23469,7 +23269,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"carti_a",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23477,7 +23277,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_untamiento",
       "answer":"0",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas. "
@@ -23485,7 +23285,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"colmi_o",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23493,7 +23293,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cosqui_as",
       "answer":"1",
       "msg":"bollo, yema, bombilla, botella, apoyar, camello, cartilla, ayuntamiento, colmillo, cosquillas."
@@ -23501,7 +23301,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"costi_a",
       "answer":"1",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección."
@@ -23509,7 +23309,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_ajo",
       "answer":"0",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección. "
@@ -23517,7 +23317,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuchi_o",
       "answer":"1",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección."
@@ -23525,7 +23325,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cue_o",
       "answer":"1",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección."
@@ -23533,7 +23333,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"desa_unar",
       "answer":"0",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección. "
@@ -23541,7 +23341,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensaladi_a",
       "answer":"1",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección."
@@ -23549,7 +23349,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensa_ar",
       "answer":"0",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección. "
@@ -23557,7 +23357,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"estre_a",
       "answer":"1",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección."
@@ -23565,7 +23365,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ho_o",
       "answer":"0",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección. "
@@ -23573,7 +23373,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"in_ección",
       "answer":"0",
       "msg":"costilla, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar, estrella, hoyo, inyección. "
@@ -23581,7 +23381,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"su_o",
       "answer":"0",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur. "
@@ -23589,7 +23389,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"tomi_o",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23597,7 +23397,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"torti_a",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23605,7 +23405,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ventani_a",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23613,7 +23413,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"senci_o",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23621,7 +23421,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_egua",
       "answer":"0",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur. "
@@ -23629,7 +23429,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bolsi_o",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23637,7 +23437,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_eso",
       "answer":"0",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur. "
@@ -23645,7 +23445,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_í",
       "answer":"1",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur."
@@ -23653,7 +23453,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ogur",
       "answer":"0",
       "msg":"suyo, tomillo, tortilla, ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur. "
@@ -23661,7 +23461,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ate",
       "answer":"0",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo. "
@@ -23669,7 +23469,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_o",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23677,7 +23477,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Vizca_a",
       "answer":"0",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo. "
@@ -23685,7 +23485,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ga_ur",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23693,7 +23493,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Go_a",
       "answer":"0",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo. "
@@ -23701,7 +23501,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"hebi_a",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23709,7 +23509,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_anto",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23717,7 +23517,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"maneci_a",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23725,7 +23525,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ena",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23733,7 +23533,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"horni_o",
       "answer":"1",
       "msg":"yate, fallo, Vizcaya, Gallur, Goya, hebilla, llanto, manecilla, llena, hornillo."
@@ -23741,7 +23541,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_untamiento",
       "answer":"0",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla. "
@@ -23749,7 +23549,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"colmi_o",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23757,7 +23557,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cosqui_as",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23765,7 +23565,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_ajo",
       "answer":"0",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla. "
@@ -23773,7 +23573,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuchi_o",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23781,7 +23581,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cue_o",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23789,7 +23589,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"desa_unar",
       "answer":"0",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla. "
@@ -23797,7 +23597,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensaladi_a",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23805,7 +23605,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensa_ar",
       "answer":"0",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla. "
@@ -23813,7 +23613,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"costi_a",
       "answer":"1",
       "msg":"ayuntamiento, colmillo, cosquillas, rayajo, cuchillo, cuello, desayunar, ensaladilla, ensayar,costilla."
@@ -23821,7 +23621,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pla_a",
       "answer":"0",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla. "
@@ -23829,7 +23629,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"punti_a",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23837,7 +23637,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"crema_era",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23845,7 +23645,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_o",
       "answer":"0",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla. "
@@ -23853,7 +23653,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"se_o",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23861,7 +23661,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"semi_a",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23869,7 +23669,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ayo",
       "answer":"0",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla. "
@@ -23877,7 +23677,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"servi_eta",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23885,7 +23685,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"si_a",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23893,7 +23693,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"sombri_a",
       "answer":"1",
       "msg":"playa, puntilla, cremallera, rayo, sello, semilla, yayo, servilleta, silla, sombrilla."
@@ -23901,7 +23701,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_or",
       "answer":"0",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera. "
@@ -23909,7 +23709,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pae_a",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23917,7 +23717,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"papi_a",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23925,7 +23725,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pasi_o",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23933,7 +23733,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_ejo",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23941,7 +23741,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera. "
@@ -23949,7 +23749,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"plati_o",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23957,7 +23757,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pla_a",
       "answer":"0",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera. "
@@ -23965,7 +23765,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"punti_a",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23973,7 +23773,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"crema_era",
       "answer":"1",
       "msg":"mayor, paella, papilla, pasillo, pellejo, payaso, platillo, playa, puntilla, cremallera."
@@ -23981,7 +23781,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_o",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -23989,7 +23789,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fo_eto",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -23997,7 +23797,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fra_",
       "answer":"0",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso. "
@@ -24005,7 +23805,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pati_a",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -24013,7 +23813,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pro_ectar",
       "answer":"0",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso. "
@@ -24021,7 +23821,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"punti_a",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -24029,7 +23829,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"sa_a",
       "answer":"0",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso. "
@@ -24037,7 +23837,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"semi_a",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -24045,7 +23845,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ta_o",
       "answer":"1",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso."
@@ -24053,7 +23853,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"fallo, folleto, fray, patilla, proyectar, puntilla, saya, semilla, tallo, payaso. "
@@ -24061,7 +23861,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensaladi_a",
       "answer":"1",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo."
@@ -24069,7 +23869,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Go_a",
       "answer":"0",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo. "
@@ -24077,7 +23877,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gri_o",
       "answer":"1",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo."
@@ -24085,7 +23885,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pro_ectil",
       "answer":"0",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo. "
@@ -24093,7 +23893,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_a",
       "answer":"0",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo. "
@@ -24101,7 +23901,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"senci_o",
       "answer":"1",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo."
@@ -24109,7 +23909,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"subra_ar",
       "answer":"0",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo. "
@@ -24117,7 +23917,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"toa_a",
       "answer":"1",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo."
@@ -24125,7 +23925,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"tobi_o",
       "answer":"1",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo."
@@ -24133,7 +23933,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"toca_o",
       "answer":"0",
       "msg":"ensaladilla, Goya, grillo, proyectil, raya, sencillo, subrayar, toalla, tobillo, tocayo. "
@@ -24141,7 +23941,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ensa_ar",
       "answer":"0",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo. "
@@ -24149,7 +23949,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gru_a",
       "answer":"1",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo."
@@ -24157,7 +23957,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Paragua_",
       "answer":"0",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo. "
@@ -24165,7 +23965,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"peri_a",
       "answer":"1",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo."
@@ -24173,7 +23973,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_o",
       "answer":"0",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo. "
@@ -24181,7 +23981,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"rodi_a",
       "answer":"1",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo."
@@ -24189,7 +23989,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"servi_eta",
       "answer":"1",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo."
@@ -24197,7 +23997,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jerse_",
       "answer":"0",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo. "
@@ -24205,7 +24005,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jeringui_a",
       "answer":"1",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo."
@@ -24213,7 +24013,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"laca_o",
       "answer":"0",
       "msg":"ensayar, grulla, Paraguay, perilla, rayo, rodilla, servilleta, jersey, jeringuilla, lacayo. "
@@ -24221,7 +24021,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gui_otina",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24229,7 +24029,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"papi_a",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24237,7 +24037,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pararra_os",
       "answer":"0",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla. "
@@ -24245,7 +24045,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"parri_a",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24253,7 +24053,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"se_o",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24261,7 +24061,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mu_",
       "answer":"0",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla. "
@@ -24269,7 +24069,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ladri_o",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24277,7 +24077,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"neo_orquino",
       "answer":"0",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla. "
@@ -24285,7 +24085,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"orgu_o",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24293,7 +24093,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ori_a",
       "answer":"1",
       "msg":"guillotina, papilla, pararrayos, parrilla, sello, muy, ladrillo, neoyorquino, orgullo, orilla."
@@ -24301,7 +24101,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gati_o",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24309,7 +24109,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"guindi_a",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24317,7 +24117,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pesadi_a",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24325,7 +24125,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ho_",
       "answer":"0",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla. "
@@ -24333,7 +24133,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"torni_o",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24341,7 +24141,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ho_o",
       "answer":"0",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla. "
@@ -24349,7 +24149,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cosqui_as",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24357,7 +24157,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"costi_a",
       "answer":"1",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla."
@@ -24365,7 +24165,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cu_o",
       "answer":"0",
       "msg":"gatillo, guindilla, pesadilla, hoy, tornillo, hoyo, cosquillas, costilla, cuyo, cuartilla. "
@@ -24373,7 +24173,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"engu_ir",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24381,7 +24181,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fo_aje",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24389,7 +24189,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pla_a",
       "answer":"0",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge. "
@@ -24397,7 +24197,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"rabadi_a",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24405,7 +24205,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"re_eno",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24413,7 +24213,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"tra_ecto",
       "answer":"0",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge. "
@@ -24421,7 +24221,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"tri_adora",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24429,7 +24229,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"patru_a",
       "answer":"1",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge."
@@ -24437,7 +24237,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"convo_",
       "answer":"0",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge. "
@@ -24445,7 +24245,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cón_uge",
       "answer":"0",
       "msg":"engullir, follaje, playa, rabadilla, relleno, trayecto, trilladora, patrulla, convoy, cónyuge. "
@@ -24453,7 +24253,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pasi_o",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24461,7 +24261,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"le_es",
       "answer":"0",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla. "
@@ -24469,7 +24269,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_ejo",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24477,7 +24277,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"patru_a",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24485,7 +24285,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"penalt_",
       "answer":"0",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla. "
@@ -24493,7 +24293,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pepini_o",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24501,7 +24301,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pone_",
       "answer":"0",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla. "
@@ -24509,7 +24309,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"rastri_o",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24517,7 +24317,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"su_o",
       "answer":"0",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla. "
@@ -24525,7 +24325,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ta_a",
       "answer":"1",
       "msg":"pasillo, leyes, pellejo, patrulla, penalty, pepinillo, poney, rastrillo, suyo, talla."
@@ -24533,7 +24333,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pasti_a",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24541,7 +24341,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_o",
       "answer":"0",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa. "
@@ -24549,7 +24349,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izco",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24557,7 +24357,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_o",
       "answer":"0",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa. "
@@ -24565,7 +24365,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"po_o",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24573,7 +24373,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"senci_ez",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24581,7 +24381,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"va_amos",
       "answer":"0",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa. "
@@ -24589,7 +24389,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"vari_a",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24597,7 +24397,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"meda_a",
       "answer":"1",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa."
@@ -24605,7 +24405,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pla_a",
       "answer":"0",
       "msg":"pastilla, rayo, pellizco, mayo, pollo, sencillez, vayamos, varilla, medalla, playa. "
@@ -24613,7 +24413,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_ecer",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24621,7 +24421,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ganchi_o",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24629,7 +24429,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo. "
@@ -24637,7 +24437,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_úscula",
       "answer":"0",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo. "
@@ -24645,7 +24445,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izcar",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24653,7 +24453,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"rosqui_a",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24661,7 +24461,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_or",
       "answer":"0",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo. "
@@ -24669,7 +24469,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_o",
       "answer":"0",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo. "
@@ -24677,7 +24477,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"va_e",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24685,7 +24485,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"vasa_o",
       "answer":"1",
       "msg":"fallecer, ganchillo, payaso, mayúscula, pellizcar, rosquilla, mayor, mayo, valle, vasallo."
@@ -24693,7 +24493,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"arru_ar",
       "answer":"1",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo."
@@ -24701,7 +24501,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gui_otina",
       "answer":"1",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo."
@@ -24709,7 +24509,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ba_eu",
       "answer":"0",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo. "
@@ -24717,7 +24517,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izcar",
       "answer":"1",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo."
@@ -24725,7 +24525,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_odo",
       "answer":"0",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo. "
@@ -24733,7 +24533,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_uxtapuesto",
       "answer":"0",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo. "
@@ -24741,7 +24541,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"vasa_o",
       "answer":"1",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo."
@@ -24749,7 +24549,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Versa_es",
       "answer":"1",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo."
@@ -24757,7 +24557,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_oga",
       "answer":"0",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo. "
@@ -24765,7 +24565,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"gua_abo",
       "answer":"0",
       "msg":"arrullar, guillotina, Bayeu, pellizcar, yodo, yuxtapuesto, vasallo, Versalles, yoga, guayabo. "
@@ -24773,7 +24573,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_a",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24781,7 +24581,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"flequi_o",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24789,7 +24589,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"guiriga_",
       "answer":"0",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar. "
@@ -24797,7 +24597,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"peladi_a",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24805,7 +24605,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Go_a",
       "answer":"0",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar. "
@@ -24813,7 +24613,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_iza",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24821,7 +24621,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Sevi_a",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24829,7 +24629,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"le_enda",
       "answer":"0",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar. "
@@ -24837,7 +24637,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"plati_o",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24845,7 +24645,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pi_ar",
       "answer":"1",
       "msg":"falla, flequillo, girigay, peladilla, Goya, pelliza, Sevilla, leyenda, platillo, pillar."
@@ -24853,7 +24653,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ra_o",
       "answer":"0",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla. "
@@ -24861,7 +24661,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"se_o",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24869,7 +24669,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"semi_a",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24877,7 +24677,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ya_o",
       "answer":"0",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla. "
@@ -24885,7 +24685,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"servi_eta",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24893,7 +24693,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"si_a",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24901,7 +24701,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"sombri_a",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24909,7 +24709,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"su_o",
       "answer":"0",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla. "
@@ -24917,7 +24717,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"torni_o",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24925,7 +24725,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"torti_a",
       "answer":"1",
       "msg":"rayo, sello, semilla, yayo, servilleta, silla, sombrilla, suyo, tornillo, tortilla."
@@ -24933,7 +24733,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"estre_a",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -24941,7 +24741,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ho_o",
       "answer":"0",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas. "
@@ -24949,7 +24749,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"in_ección",
       "answer":"0",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas. "
@@ -24957,7 +24757,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jo_a",
       "answer":"0",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas. "
@@ -24965,7 +24765,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_uvia",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -24973,7 +24773,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mani_ar",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -24981,7 +24781,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"marti_o",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -24989,7 +24789,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mau_ar",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -24997,7 +24797,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_onesa",
       "answer":"0",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas. "
@@ -25005,7 +24805,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"nati_as",
       "answer":"1",
       "msg":"estrella, hoyo, inyección, joya, lluvia, manillar, martillo, maullar, mayonesa, natillas."
@@ -25013,7 +24813,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_úscula",
       "answer":"0",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo. "
@@ -25021,7 +24821,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"meji_a",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25029,7 +24829,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mesi_a",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25037,7 +24837,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_or",
       "answer":"0",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo. "
@@ -25045,7 +24845,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pae_a",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25053,7 +24853,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"papi_a",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25061,7 +24861,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pasi_o",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25069,7 +24869,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo. "
@@ -25077,7 +24877,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_ejo",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25085,7 +24885,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"plati_o",
       "answer":"1",
       "msg":"mayúscula, mejilla, mesilla, mayor, paella, papilla, pasillo, payaso, pellejo, platillo."
@@ -25093,7 +24893,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ventani_a",
       "answer":"1",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya."
@@ -25101,7 +24901,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"senci_o",
       "answer":"1",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya."
@@ -25109,7 +24909,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_egua",
       "answer":"0",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya. "
@@ -25117,7 +24917,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bolsi_o",
       "answer":"1",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya."
@@ -25125,7 +24925,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_eso",
       "answer":"0",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya. "
@@ -25133,7 +24933,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_í",
       "answer":"1",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya."
@@ -25141,7 +24941,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ogur",
       "answer":"0",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya. "
@@ -25149,7 +24949,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"zancadi_a",
       "answer":"1",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya."
@@ -25157,7 +24957,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"alca_ata",
       "answer":"0",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya. "
@@ -25165,7 +24965,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ama_a",
       "answer":"0",
       "msg":"ventanilla, sencillo, yegua, bolsillo, yeso, allí, yogur, zancadilla, alcayata, Amaya. "
@@ -25173,7 +24973,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"arro_ar",
       "answer":"1",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer."
@@ -25181,7 +24981,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"chanchu_o",
       "answer":"1",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer."
@@ -25189,7 +24989,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atra_ente",
       "answer":"0",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer. "
@@ -25197,7 +24997,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pe_izco",
       "answer":"1",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer."
@@ -25205,7 +25005,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pro_ectar",
       "answer":"0",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer. "
@@ -25213,7 +25013,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"radio_ente",
       "answer":"0",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer. "
@@ -25221,7 +25021,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"vaini_a",
       "answer":"1",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer."
@@ -25229,7 +25029,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"visi_o",
       "answer":"1",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer."
@@ -25237,7 +25037,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ahu_entar",
       "answer":"0",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer. "
@@ -25245,7 +25045,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_acer",
       "answer":"0",
       "msg":"arrollar, chanchullo, atrayente, pellizco, proyectar, radioyente, vainilla, visillo, ahuyentar, yacer. "
@@ -25253,7 +25053,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"patru_a",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25261,7 +25061,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ani_a",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25269,7 +25069,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Arnedi_o",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25277,7 +25077,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"asti_a",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25285,7 +25085,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ca_ar",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25293,7 +25093,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atala_a",
       "answer":"0",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo. "
@@ -25301,7 +25101,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ave_ana",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25309,7 +25109,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"be_ota",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25317,7 +25117,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ugo",
       "answer":"0",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo. "
@@ -25325,7 +25125,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bocadi_o",
       "answer":"1",
       "msg":"patrulla, anilla, Arnedillo, astilla, callar, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25333,7 +25133,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_uno",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25341,7 +25141,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Bomba_",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25349,7 +25149,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pi_o",
       "answer":"1",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya."
@@ -25357,7 +25157,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_er",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25365,7 +25165,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Godo_",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25373,7 +25173,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cursi_o",
       "answer":"1",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya."
@@ -25381,7 +25181,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"en_esar",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25389,7 +25189,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"peladi_a",
       "answer":"1",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya."
@@ -25397,7 +25197,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"senci_ez",
       "answer":"1",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya."
@@ -25405,7 +25205,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"alelu_a",
       "answer":"0",
       "msg":"ayuno, Bombay, pillo, ayer, Godoy, cursillo, enyesar, peladilla, sencillez, aleluya. "
@@ -25413,7 +25213,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Caraca_a",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25421,7 +25221,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cón_uge",
       "answer":"0",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla. "
@@ -25429,7 +25229,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuarti_a",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25437,7 +25237,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuchi_a",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25445,7 +25245,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cu_o",
       "answer":"0",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla. "
@@ -25453,7 +25253,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"e_o",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25461,7 +25261,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"embe_ecer",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25469,7 +25269,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ye_é",
       "answer":"0",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla. "
@@ -25477,7 +25277,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"empo_ón",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25485,7 +25285,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"fa_a",
       "answer":"1",
       "msg":"Caracalla, cónyuge, cuartilla, cuchilla, cuyo, ello, embellecer, yeyé, empollón, falla."
@@ -25493,7 +25293,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jo_a",
       "answer":"0",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla. "
@@ -25501,7 +25301,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_uvia",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25509,7 +25309,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mani_ar",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25517,7 +25317,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"marti_o",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25525,7 +25325,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mau_ar",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25533,7 +25333,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_onesa",
       "answer":"0",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla. "
@@ -25541,7 +25341,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"nati_as",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25549,7 +25349,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_úscula",
       "answer":"0",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla. "
@@ -25557,7 +25357,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"meji_a",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25565,7 +25365,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mesi_a",
       "answer":"1",
       "msg":"joya, lluvia, manillar, martillo, maullar, mayonesa, natillas, mayúscula, mejilla, mesilla."
@@ -25573,7 +25373,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"be_a",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25581,7 +25381,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ba_ena",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25589,7 +25389,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bo_o",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25597,7 +25397,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ema",
       "answer":"0",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta. "
@@ -25605,7 +25405,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bombi_a",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25613,7 +25413,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bote_a",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25621,7 +25421,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"apo_ar",
       "answer":"0",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta. "
@@ -25629,7 +25429,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"came_o",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25637,7 +25437,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"carti_a",
       "answer":"1",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta."
@@ -25645,7 +25445,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ba_eta",
       "answer":"0",
       "msg":"bella, ballena, bollo, yema, bombilla, botella, apoyar, camello, cartilla, bayeta. "
@@ -25653,7 +25453,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cu_o",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25661,7 +25461,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"mu_",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25669,7 +25469,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"co_ar",
       "answer":"1",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola."
@@ -25677,7 +25477,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bue_",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25685,7 +25485,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pesadi_a",
       "answer":"1",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola."
@@ -25693,7 +25493,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"po_o",
       "answer":"1",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola."
@@ -25701,7 +25501,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"jerse_",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25709,7 +25509,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"cuadri_a",
       "answer":"1",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola."
@@ -25717,7 +25517,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"pa_aso",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25725,7 +25525,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"esca_ola",
       "answer":"0",
       "msg":"cuyo, muy, collar, buey, pesadilla, pollo, jersey, cuadrilla, payaso, escayola. "
@@ -25733,7 +25533,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"zancadi_a",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25741,7 +25541,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"reji_a",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25749,7 +25549,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"alca_ata",
       "answer":"0",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo. "
@@ -25757,7 +25557,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"patru_a",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25765,7 +25565,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"asti_a",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25773,7 +25573,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atala_a",
       "answer":"0",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo. "
@@ -25781,7 +25581,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ave_ana",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25789,7 +25589,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"be_ota",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25797,7 +25597,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ugo",
       "answer":"0",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo. "
@@ -25805,7 +25605,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bocadi_o",
       "answer":"1",
       "msg":"zancadilla, rejilla, alcayata, patrulla, astilla, atalaya, avellana, bellota, yugo, bocadillo."
@@ -25813,7 +25613,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"apo_ar",
       "answer":"0",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar. "
@@ -25821,7 +25621,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"torti_a",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25829,7 +25629,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bo_o",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25837,7 +25637,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"desa_unar",
       "answer":"0",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar. "
@@ -25845,7 +25645,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"bombi_a",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25853,7 +25653,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"in_ección",
       "answer":"0",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar. "
@@ -25861,7 +25661,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ca_e",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25869,7 +25669,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"came_o",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25877,7 +25677,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ma_úscula",
       "answer":"0",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar. "
@@ -25885,7 +25685,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ca_ar",
       "answer":"1",
       "msg":"apoyar, tortilla, bollo, desayunar, bombilla, inyección, calle, camello, mayúscula, callar."
@@ -25893,7 +25693,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_ave",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25901,7 +25701,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_evar",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25909,7 +25709,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"maravi_a",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25917,7 +25717,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"_o",
       "answer":"0",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25925,7 +25725,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"ani_o",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25933,7 +25733,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"antea_er",
       "answer":"0",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25941,7 +25741,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"calzonci_o",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25949,7 +25749,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"atrope_ar",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25957,7 +25757,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"a_er",
       "answer":"0",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -25965,7 +25765,7 @@
     {
       "rule":"yll",
       "type":"word",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"chi_ar",
       "answer":"1",
       "msg":"llave, llevar, maravilla, yo, anillo, anteayer, calzoncillo, atropellar, ayer, chillar."
@@ -26213,7 +26013,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ca_ado es el participio pasado del verbo callar.",
       "answer":"1",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26221,7 +26021,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Un ca_ado es un bastón encorvado en el extremo superior.",
       "answer":"0",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26229,7 +26029,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Abo_ar es hacer un bollo o depresión con un golpe.",
       "answer":"1",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26237,7 +26037,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Poner boyas o cuerpos flotantes en el agua es abo_ar.",
       "answer":"0",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26245,7 +26045,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El macho de la gallina es el ga_o.",
       "answer":"1",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26253,7 +26053,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Llamamos ga_o a lo que es alegre y grato a la vista.",
       "answer":"0",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26261,7 +26061,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Una ma_a es el trenzado de una red.",
       "answer":"1",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26269,7 +26069,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ma_a es una civilización antigua centroamericana.",
       "answer":"0",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26277,7 +26077,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Cayó una piedra y me abo_ó el capot del coche.",
       "answer":"1",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26285,7 +26085,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Este chico es ca_ado, habla poco.",
       "answer":"1",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26293,7 +26093,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Mi vecina tiene un ga_o con cresta y plumaje vistoso.",
       "answer":"1",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26301,7 +26101,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El trapecista retiró la ma_a y entusiasmó al público.",
       "answer":"1",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26309,7 +26109,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Abo_amos cuando ponemos cuerpos flotantes en el mar.",
       "answer":"0",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26317,7 +26117,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Arturo es tímido y ca_ado.",
       "answer":"1",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26325,7 +26125,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Una señora mexicana usaba colores ga_os.",
       "answer":"0",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26333,7 +26133,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En Yucatán vivía una tribu ma_a.",
       "answer":"0",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26341,7 +26141,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"De tanto golpearlo, han abo_ado el plato de aluminio.",
       "answer":"1",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26349,7 +26149,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El abuelo le dio en la cabeza con el ca_ado.",
       "answer":"0",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26357,7 +26157,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Se asustó el ga_o cuando vino el perro.",
       "answer":"1",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26365,7 +26165,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Han hecho una ma_a con cuerdas entrelazadas.",
       "answer":"1",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26373,7 +26173,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Han abo_ado el puerto con objetos flotantes.",
       "answer":"0",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26381,7 +26181,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Mi hermano es ca_ado, silencioso y reservado.",
       "answer":"1",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26389,7 +26189,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Por la mañana me despierta el canto de ga_o.",
       "answer":"1",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26397,7 +26197,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ponemos una ma_a en la ventana para evitar los mosquitos.",
       "answer":"1",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26405,7 +26205,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Después del accidente, el coche quedó abo_ado.",
       "answer":"1",
       "msg":"abollar: hacer un bollo o depresión con un golpe. aboyar: poner boyas o cuerpos flotantes."
@@ -26413,7 +26213,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Conocemos poco la civilización ma_a.",
       "answer":"0",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26421,7 +26221,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El pastor de cabras se apoya en su ca_ado.",
       "answer":"0",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26429,7 +26229,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Vimos una interesante construcción ma_a.",
       "answer":"0",
       "msg":"malla: trenzado de una red. maya: civilización antigua centroamericana."
@@ -26437,7 +26237,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Este vestido es ga_o, con muchos colores.",
       "answer":"0",
       "msg":"gallo: macho de la gallina. gayo: lo que es alegre y grato a la vista."
@@ -26445,7 +26245,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Hemos visto a un anciano con un hermoso ca_ado.",
       "answer":"0",
       "msg":"callado: participio del verbo callar. cayado: bastón encorvado en el extremo superior."
@@ -26453,7 +26253,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Has abo_ado el plato de aluminio.",
       "answer":"1",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26461,7 +26261,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La finca con bueyes es abo_ada.",
       "answer":"0",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26469,7 +26269,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Un coche verde arro_ó a un peatón.",
       "answer":"1",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26477,7 +26277,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En mi pueblo hay un arro_o con poca agua.",
       "answer":"0",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26485,7 +26285,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Montse se ha_a enferma.",
       "answer":"1",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26493,7 +26293,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Cuando ha_a comido veré la televisión.",
       "answer":"0",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26501,15 +26301,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Yo _endo la cacerola o le hago una grieta.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Este invierno estoy _endo al conservatorio.",
       "answer":"0",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
@@ -26517,15 +26317,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Los coches están hechos de _erro.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Cuando _erro cometo un error o una equivocación.",
       "answer":"0",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
@@ -26533,7 +26333,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Arturo ha_a las cosas cuando las busca.",
       "answer":"1",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26541,7 +26341,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Le ha dado golpes a la moto y la ha abo_ado.",
       "answer":"1",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26549,7 +26349,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Andando voy _endo hasta casa.",
       "answer":"0",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
@@ -26557,7 +26357,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La hacienda del pueblo está abo_ada.",
       "answer":"0",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26565,7 +26365,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Golpeó al coche y terminó abo_ado.",
       "answer":"1",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26573,7 +26373,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Algunos días nos bañamos en el arro_o.",
       "answer":"0",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26581,7 +26381,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Abo_ada es una finca cerrada con bueyes.",
       "answer":"0",
       "msg":"abollado: de abollar o producir una depresión en una superficie con un golpe. aboyado: de aboyar o arrendar una heredad con bueyes para su labranza."
@@ -26589,7 +26389,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Arro_ar es atropellar a una persona.",
       "answer":"1",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26597,7 +26397,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ana pierde los lapiceros y luego los ha_a.",
       "answer":"1",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26605,7 +26405,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Un arro_o es un río pequeño y lento.",
       "answer":"0",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26613,7 +26413,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Me alegra que Alejandro ha_a visto el fútbol.",
       "answer":"0",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26621,15 +26421,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El _erro es un metal muy utilizado.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Por las tardes Pedro está _endo al gimnasio.",
       "answer":"0",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
@@ -26637,15 +26437,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La verja de esta ventana es de _erro.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Yo no arro_o a los niños en la calle.",
       "answer":"1",
       "msg":"arrollo: del verbo arrollar o atropellar. arroyo: río con poca agua y lento."
@@ -26653,7 +26453,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Después que ha_a llovido, saldrá el sol.",
       "answer":"0",
       "msg":"halla: del verbo hallar. haya: del verbo haber."
@@ -26661,7 +26461,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"A veces me equivoco o _erro en mis afirmaciones.",
       "answer":"0",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
@@ -26669,15 +26469,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"No _endo o agrieto las cosas.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El presente del verbo errar es _erro.",
       "answer":"0",
       "msg":"hierro: metal utilizado en la industria. yerro: del verbo errar o equivocarse."
@@ -26685,15 +26485,15 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Yo _endo y hago una hendidura al recipiente.",
-      "answer":"OTHER",
+      "answer":"2",
       "msg":"hiendo: del verbo hender o hacer una hendidura en un recipiente. yendo: del verbo ir."
     },
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Una depresión grande en la tierra es una ho_a.",
       "answer":"0",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26701,7 +26501,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Una o_a es una vasija con una o dos asas.",
       "answer":"1",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26709,7 +26509,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El po_o es un banco de piedra fijo a la fachada de la casa.",
       "answer":"0",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26717,7 +26517,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La cría de las aves es el po_o.",
       "answer":"1",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26725,7 +26525,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Hacer rayas en un papel es ra_ar.",
       "answer":"0",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26733,7 +26533,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Ra_ar es raspar algo para desmenuzarlo.",
       "answer":"1",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26741,7 +26541,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El color rubio o rojo se llama ro_o.",
       "answer":"0",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26749,7 +26549,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Un objeto de forma cilíndrica es un ro_o.",
       "answer":"1",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26757,7 +26557,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Cocinamos con una o_a de presión o exprés.",
       "answer":"1",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26765,7 +26565,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"El po_o ha pasado a ser el alimento corriente.",
       "answer":"1",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26773,7 +26573,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Para los entremeses, mi mamá va a ra_ar unas zanahorias.",
       "answer":"1",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26781,7 +26581,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Un toro ro_o abrió las corridas de feria.",
       "answer":"0",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26789,7 +26589,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La ho_a es también una vaguada.",
       "answer":"0",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26797,7 +26597,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Iba cansado y me senté en el po_o para descansar.",
       "answer":"0",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26805,7 +26605,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Con el rallador es cómodo ra_ar el pan seco.",
       "answer":"1",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26813,7 +26613,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En la ho_a del campo sembraremos cereales.",
       "answer":"0",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26821,7 +26621,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La sopa cuece dentro de la o_a.",
       "answer":"1",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26829,7 +26629,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Condujo su rebaño hasta la ho_a en busca de pasto.",
       "answer":"0",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26837,7 +26637,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"A este niño le gusta ra_ar las hojas con el lápiz.",
       "answer":"0",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26845,7 +26645,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La cocinera prepara la masa con un ro_o.",
       "answer":"1",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26853,7 +26653,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En la o_a hicimos una comida de garbanzos y carne.",
       "answer":"1",
       "msg":"hoya: depresión grande formada en la tierra. olla: vasija con una o dos asas."
@@ -26861,7 +26661,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Junto a la puerta de la casa tenemos un po_o o asiento.",
       "answer":"0",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26869,7 +26669,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Se acabó el ro_o del papel continuo.",
       "answer":"1",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26877,7 +26677,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En la granja tenemos un po_o enfermo.",
       "answer":"1",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26885,7 +26685,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Más que dibujar, eso es ra_ar una lámina.",
       "answer":"0",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26893,7 +26693,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"La gallina va delante de un solo po_o.",
       "answer":"1",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26901,7 +26701,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Esta bandera tiene el color ro_o.",
       "answer":"0",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
@@ -26909,7 +26709,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"En el pueblo tenemos un po_o blanco que canta.",
       "answer":"1",
       "msg":"poyo: banco de piedra fijo a la fachada de la casa. pollo: cría de las aves."
@@ -26917,7 +26717,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"No debes r_ar el pupitre, lo estropeas.",
       "answer":"0",
       "msg":"rayar: hacer rayas en un papel. rallar: raspar algo para desmenuzarlo."
@@ -26925,7 +26725,7 @@
     {
       "rule":"yll",
       "type":"homophone",
-      "options":"y,ll",
+      "options":"y,ll,h",
       "question":"Compra un ro_o de papel higiénico.",
       "answer":"1",
       "msg":"royo: color rubio o rojo. rollo: objeto de forma cilíndrica."
